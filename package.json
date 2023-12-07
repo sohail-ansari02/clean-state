@@ -1,0 +1,31 @@
+{
+  "name": "my-custom-css-reset",
+  "version": "1.0.0",
+  "description": "my custom css reset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohail-ansari02/my-custom-css-reset.git"
+  },
+  "keywords": [
+    "css",
+    "reset",
+    "reset",
+    "normalize",
+    "css"
+  ],
+  "author": "Sohail Ansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohail-ansari02/my-custom-css-reset/issues"
+  },
+  "homepage": "https://github.com/sohail-ansari02/my-custom-css-reset#readme",
+  "private": false,
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "reset-css": "^5.0.2"
+  }
+}

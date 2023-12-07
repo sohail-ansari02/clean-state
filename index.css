@@ -1,0 +1,8 @@
+/* vendors */
+/*
+importing normalize after reset.css is best pratice, because reset.css reset all properties. 
+ */
+@import "~reset-css/reset.css";
+@import "~normalize.css/normalize.css";
+
+@import "./custom-reset.css";
