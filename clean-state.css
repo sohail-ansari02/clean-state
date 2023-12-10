@@ -1,3 +1,10 @@
+/* vendors */
+/*
+importing normalize after reset.css is best pratice, because reset.css reset all properties. 
+ */
+ @import "~reset-css/reset.css";
+ @import "~normalize.css/normalize.css";
+
 /* // CSS can be used to style other types of documents, apart from HTML.
 // This is where the :root element comes in to play, allowing you to style the
 // root element of a document. This can be especially important when styling
