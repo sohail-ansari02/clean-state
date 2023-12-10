@@ -22,7 +22,7 @@
   },
   "license": "ISC",
   "files": [
-    "pure-start.css"
+    "pure-start.css", "readme.md"
   ],
   "bugs": {
     "url": "https://github.com/sohail-ansari02/pure-start/issues"
