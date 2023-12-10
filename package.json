@@ -1,29 +1,33 @@
 {
-  "name": "clean-state",
+  "name": "pure-start",
   "version": "1.0.0",
   "description": "my custom css reset",
-  "style": "clean-state.css",
+  "style": "pure-start.css",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sohail-ansari02/clean-state.git"
+    "url": "git+https://github.com/sohail-ansari02/pure-start.git"
   },
   "keywords": [
     "css",
     "reset",
     "reset",
     "normalize",
-    "clean-state"
+    "pure-start"
   ],
+  "private": false,
   "author": {
     "name": "Sohail Ansari",
-    "email": "syansari02@gmail.com"
-  },  
-  "license": "ISC",
-  "files": ["clean-state.css"],
-  "bugs": {
-    "url": "https://github.com/sohail-ansari02/clean-state/issues"
+    "email": "syansari02@gmail.com",
+    "url": "https://www.npmjs.com/~sohail-ansari02"
   },
-  "homepage": "https://github.com/sohail-ansari02/clean-state#readme",
+  "license": "ISC",
+  "files": [
+    "pure-start.css"
+  ],
+  "bugs": {
+    "url": "https://github.com/sohail-ansari02/pure-start/issues"
+  },
+  "homepage": "https://github.com/sohail-ansari02/pure-start#readme",
   "dependencies": {
     "normalize.css": "^8.0.1",
     "reset-css": "^5.0.2"
