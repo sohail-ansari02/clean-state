@@ -24,7 +24,7 @@ PureStart.css focuses on simplicity and purity, offering a solid base for your u
    - If you haven't already, initialize your project with `npm init` (follow the prompts).
    - Install PureStart.css using npm:
      ```bash
-     npm install purestart.css
+     npm i pure-start
      ```
    - Import it in your CSS file:
      ```css
