@@ -28,10 +28,10 @@ PureStart.css focuses on simplicity and purity, offering a solid base for your u
      ```
    - Import it in your CSS file:
      ```css
-     /* Your Main CSS File (e.g., styles.css) */
+     /* Your Global CSS File (e.g., styles.css) */
 
      /* Import PureStart.css */
-     @import url('node_modules/purestart.css');
+     @import "~pure-start/pure-start.css";
 
      /* Your additional styles go here */
      body {
