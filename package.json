@@ -1,6 +1,6 @@
 {
   "name": "pure-start",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "my custom css reset",
   "style": "pure-start.css",
   "repository": {
@@ -22,7 +22,8 @@
   },
   "license": "ISC",
   "files": [
-    "pure-start.css", "readme.md"
+    "pure-start.css",
+    "readme.md"
   ],
   "bugs": {
     "url": "https://github.com/sohail-ansari02/pure-start/issues"
