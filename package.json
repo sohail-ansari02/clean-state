@@ -1,5 +1,5 @@
 {
-  "name":  "clean-state",
+  "name": "clean-state",
   "version": "1.0.0",
   "description": "my custom css reset",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sohail-ansari02/my-custom-css-reset.git"
+    "url": "git+https://github.com/sohail-ansari02/clean-state.git"
   },
   "keywords": [
     "css",
@@ -20,9 +20,9 @@
   "author": "Sohail Ansari",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sohail-ansari02/my-custom-css-reset/issues"
+    "url": "https://github.com/sohail-ansari02/clean-state/issues"
   },
-  "homepage": "https://github.com/sohail-ansari02/my-custom-css-reset#readme",
+  "homepage": "https://github.com/sohail-ansari02/clean-state#readme",
   "private": false,
   "dependencies": {
     "normalize.css": "^8.0.1",
