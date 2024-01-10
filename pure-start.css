@@ -49,6 +49,8 @@ a {
   font-family: inherit;
   box-sizing: inherit;
   color: inherit;
+  cursor: pointer;
+
 }
 select,
 option {
