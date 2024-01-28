@@ -42,6 +42,9 @@ ol,
 dl {
   list-style: none;
 }
+button{
+  user-select: none;
+}
 button,
 a {
   all: initial;
