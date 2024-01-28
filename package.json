@@ -1,6 +1,6 @@
 {
   "name": "pure-start",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "my custom css reset",
   "style": "pure-start.css",
   "repository": {
