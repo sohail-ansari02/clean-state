@@ -1,6 +1,6 @@
 {
   "name": "pure-start",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "my custom css reset",
   "style": "pure-start.css",
   "repository": {
@@ -29,6 +29,7 @@
     "url": "https://github.com/sohail-ansari02/pure-start/issues"
   },
   "homepage": "https://github.com/sohail-ansari02/pure-start#readme",
+  "preinstall": "npm i reset-css normalize.css",
   "dependencies": {
     "normalize.css": "^8.0.1",
     "reset-css": "^5.0.2"
