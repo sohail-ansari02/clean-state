@@ -45,12 +45,16 @@ dl {
 
 button,
 a {
-  all: initial;
+/*   commented below line becase in chrome font size for <a> tag in CSS specication is difference,
+  its looks big and difficult to debug
+  */
+/*   all: initial; */ 
   font-size: inherit;
   font-family: inherit;
   box-sizing: inherit;
   color: inherit;
   cursor: pointer;
+  border: none;
 }
 select,
 option {
