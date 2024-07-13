@@ -30,7 +30,6 @@ importing normalize after reset.css is best pratice, because reset.css reset all
   font-weight: normal;
   font-style: normal;
   border: 0;
-  background-color: initial;
 }
 
 input {
